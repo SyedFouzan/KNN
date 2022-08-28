@@ -1,2 +1,2 @@
 # KNN
-KNN realtime data analysis and predicts a class for a new data point based off of the features.
+KNN realtime data analysis and predicting a class for a new data point based off of the features.
